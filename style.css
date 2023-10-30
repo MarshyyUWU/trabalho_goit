@@ -5,6 +5,9 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
+img{
+    width: 160px
+}
 nav{
     background-color: #18929D;
     padding: 10px 60px;
