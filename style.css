@@ -104,4 +104,19 @@ nav li a:hover{
     100%{
         transform: scale(1);
     }
+/*Marsh contato html*/
+}
+.titulo1{
+    color: #fff;
+    font-size: 60px;
+    font-weight: 600;
+}
+main {
+    padding: 30px 50px;
+}
+#quadrado {
+    background-color: #18929D;
+}
+label {
+    color: #200b7c;
 }
